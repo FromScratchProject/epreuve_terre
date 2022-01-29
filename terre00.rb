@@ -1,6 +1,6 @@
 n ="abcdefghijklmnopqrstuvwxyz"
 
 while true
-	print "#{n} \n"
+	puts "#{n} \n"
 	break
 end
