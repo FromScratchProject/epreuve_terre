@@ -1,10 +1,7 @@
 n ="abcdefghijklmnopqrstuvwxyz"
 
-# Afficher l'alphabet
+# Afficher l'alphabet, suivi d'un retour à la ligne
 while true
-	puts "#{n}" 
+	puts "#{n}" , "\n" 
 	break
 end
-
-# Retour à la ligne
-	puts "\n"
